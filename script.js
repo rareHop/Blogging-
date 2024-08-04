@@ -38,7 +38,7 @@ var Home = React.createClass({ displayName: "Home",
       React.createElement("section", { className: "home clearfix" }, /*#__PURE__*/
       React.createElement(NavBar, null), /*#__PURE__*/
       React.createElement("div", { className: "home-title" }, /*#__PURE__*/
-      React.createElement("h1", null, "Your", /*#__PURE__*/React.createElement("br", null), " Blog")), /*#__PURE__*/
+      React.createElement("h1", null, "ATL", /*#__PURE__*/React.createElement("br", null), " Blogs")), /*#__PURE__*/
 
       React.createElement("button", { id: "add-post" }, "ADD POST")));
 
